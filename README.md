@@ -9,4 +9,4 @@ PyTorch implementation of our paper "Efficient Causal Inference from Combined Ob
 
 Notebook
 --------
-Besides the original code this repository contains a notebook for people that are new to Pytorch and normalizing flows. We recommend to open the notebook directly in Google Colab: https://colab.research.google.com/github/max-ilse/CausalReduction/spline_flow_joint.ipynb, Google Colab allows you to run the code in your browser without configuring Python or Pytorch.
+Besides the original code this repository contains a notebook for people that are new to Pytorch and normalizing flows. We recommend to open the notebook directly in Google Colab: https://colab.research.google.com/github/max-ilse/CausalReduction/blob/main/spline_flow_joint.ipynb, Google Colab allows you to run the code in your browser without configuring Python or Pytorch.
